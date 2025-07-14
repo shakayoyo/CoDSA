@@ -1,6 +1,6 @@
 # CoDSA
 Code for experiments in Paper `"Conditional Data Synthesis Augmentation"  (arXiv:2504.07426)
-
+!![CoDSA](assets/DA.png)
 ## Simulation
 The folder of Simulation contains the code of the experiments in Section 4.1 and 4.2 for the classification and regression tasks.
 
